@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jivansh77
+- 👀 I’m interested in C/C++, Web Development, DSA, and Fintech
+- 🌱 I’m currently learning Data Structures and AIML, along with developing web applications
+- 📫 You can reach out to me at jivansh777@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once debugged a complex piece of code at 3 AM and ended up creating a tool that I now use regularly in my projects!
