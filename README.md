@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jivansh77
-- 👀 I’m interested in AI/ML, Web Development, App Development, DSA, and Fintech
-- 🌱 I’m currently learning Data Structures and AI/ML, along with developing apps and websites
+- 👀 I’m interested in AI/ML, LLMs, AI Agents, RL, Web Dev and App Dev
+- 🌱 I’m currently learning about Reinforcement Learning, while developing apps and websites
 - 📫 You can reach out to me at jivansh777@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once debugged a complex piece of code at 3 AM and ended up creating a tool that I now use regularly in my projects!
