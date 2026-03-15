@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning about Reinforcement Learning, while developing apps and websites
 - 📫 You can reach out to me at jivansh777@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once debugged a complex piece of code and ended up creating a tool that I now use regularly in my projects!
